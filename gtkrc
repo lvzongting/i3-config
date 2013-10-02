@@ -1,0 +1,7 @@
+#/etc/gtk-2.0/grkrc
+
+gtk-fallback-icon-theme = "gnome"
+#theme in path /usr/share/themes/
+gtk-theme-name = "Adwaita"
+gtk-application-prefer-dark-theme = "false"
+gtk-font-name = "WenQuanYi Zen Hei Mono 10"
