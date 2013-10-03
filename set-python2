@@ -1,0 +1,6 @@
+$ mkdir ~/bin
+#Then add a symlink 'python' to python2 and the config scripts in it.
+$ ln -s /usr/bin/python2 ~/bin/python
+$ ln -s /usr/bin/python2-config ~/bin/python-config
+#Finally put the new folder at the beginning of your PATH variable.
+$ export PATH=~/bin:$PATH
