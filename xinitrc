@@ -4,6 +4,8 @@
 #xterm -geometry 80x50+494+51 &
 #xterm -geometry 80x20+494-0 &
 #exec xterm -geometry 80x66+0+0 -name login
+
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 clipit &
 fcitx &
 #xrandr --newmode "1920x1080_60.00" 173.00 1920 2048 2248 2576 1080 1083 1088 1120 -hsync +vsync
