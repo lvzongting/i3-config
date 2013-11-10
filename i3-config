@@ -166,3 +166,6 @@ bindsym $mod+m scratchpad show
 bindsym Control+$mod+l exec slock
 
 bindsym Print exec "scrot -e 'mv $f ~/screenshot/ 2>/dev/null'"
+bindsym --release $mod+Print exec "scrot -s"
+bindsym --release $mod+Control+Print exec "sleep 5 && scrot"
+
