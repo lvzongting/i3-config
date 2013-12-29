@@ -1,4 +1,4 @@
-#/etc/gtk-2.0/grkrc
+#/etc/gtk-2.0/gtkrc
 
 gtk-fallback-icon-theme = "gnome"
 #theme in path /usr/share/themes/
