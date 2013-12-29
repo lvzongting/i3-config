@@ -3,5 +3,6 @@
 gtk-fallback-icon-theme = "gnome"
 #theme in path /usr/share/themes/
 gtk-theme-name = "Adwaita"
+#Numix
 gtk-application-prefer-dark-theme = "false"
 gtk-font-name = "WenQuanYi Zen Hei Mono 10"
