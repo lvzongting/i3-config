@@ -14,3 +14,11 @@ i3 wm是一个好wm。非常灵活。而且高效。
 i3lock很好看，但是我还是比较喜欢slock。
 
 可以全键盘，可以和鼠标配合，更可以完全鼠标。
+
+mplayer
+
+~/.mplayer/config
+
+font="WenQuanYi Zen Hei"
+utf8=yes
+
