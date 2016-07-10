@@ -7,3 +7,4 @@ export EDITOR="vim"
 alias ls='ls --color'
 alias grep='grep --color'
 alias pacman='pacman --color=auto'
+export XZ_OPT='-9vfT0'
