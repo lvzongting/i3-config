@@ -11,6 +11,7 @@ alias watch='watch -c'
 alias make='make -j'
 alias matlab='/home/data/matlab2016a/bin/matlab'
 export XZ_OPT='-9vfT0'
+export PS1="\\[\\033]0;\\u@\\h:\\W\\007\\]\\[\\033[01;32m\\]\\u@\\h\\[\\033[01;34m\\] \\W \\\$\\[\\033[00m\\]"
 
 #mash gpu for tensorflow
 export CUDA_VISIBLE_DEVICES=0 
