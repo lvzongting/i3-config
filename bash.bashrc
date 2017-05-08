@@ -27,3 +27,6 @@ export CPATH=/home/data/cuDNN-5.0.5/include:$CPATH
 export LD_LIBRARY_PATH=/home/data/cuDNN-5.0.5/lib64:/home/data/cuDNN-5.0.5/lib:$LD_LIBRARY_PATH
 export LIBRARY_PATH=/home/data/cuDNN-5.0.5/lib64:/home/data/cuDNN-5.0.5/lib:$LIBRARY_PATH
 
+
+#linux	/boot/vmlinuz-linux root=UUID=069279ac-ae71-434e-859e-37e476512b53 rw pci=nomsi pci=nommconf video=vesa:off vga=normal processor.max_cstate=0 intel_idle.max_cstate=0 idle=poll video=efifb:off
+
